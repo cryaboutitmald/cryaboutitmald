@@ -769,4 +769,3 @@ div[class^="splashBackground"] img {
 	background-position: var(--user-popout-position, center) center;
 	background-image: var(--user-background);
 }
-{"mode":"full","isActive":false}
